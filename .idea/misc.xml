@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/andre/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_detail2.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/Simulator/app/src/main/res/layout/match_item.xml" value="0.33" />
       </map>
     </option>
   </component>
