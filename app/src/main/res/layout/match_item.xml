@@ -22,7 +22,7 @@
             tools:srcCompat="@tools:sample/avatars" />
 
         <TextView
-            android:id="@+id/txHomeTeamName"
+            android:id="@+id/tv_home_team_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin_default"
@@ -66,7 +66,7 @@
             tools:srcCompat="@tools:sample/avatars" />
 
         <TextView
-            android:id="@+id/txAwayTeamName"
+            android:id="@+id/tv_away_team_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin_default"
@@ -78,7 +78,7 @@
             tools:text="Away Team" />
 
         <TextView
-            android:id="@+id/txAwayTeamScore"
+            android:id="@+id/tv_away_team_score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
